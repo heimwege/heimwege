@@ -9,6 +9,9 @@
   ███    █▀      ██████████ █▀    ▀█   ███   █▀   ▀███▀███▀    ██████████   ████████▀    ██████████ 
 ```
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=heimwege&theme=dark&show_icons=true)
+
 <!--
 **heimwege/heimwege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
